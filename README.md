@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashwin 👋</h1>
-<h3 align="center">Robotics • Embedded Systems • Perception & Navigation</h3>
+<h3 align="center">Robotics • Perception & Navigation • Embedded Systems </h3>
 
 <p align="center">
   <img src="https://github.com/Ashwin001-fr/Ashwin001-fr/blob/e13f335cad1f79a2b52a435b77df35f1787a2c9e/assets/gallery-1496684659-robotic-arm.gif" width="260" />
