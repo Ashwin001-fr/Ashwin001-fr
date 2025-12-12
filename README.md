@@ -2,9 +2,9 @@
 <h3 align="center">Robotics • Embedded Systems • Perception & Navigation</h3>
 
 <p align="center">
-  <img src="YOUR_GIF_1" width="260" alt="robotics demo"/>
-  <img src="YOUR_GIF_2" width="260" alt="drone simulation"/>
-  <img src="YOUR_GIF_3" width="260" alt="embedded project"/>
+  <img src="https://github.com/Ashwin001-fr/Ashwin001-fr/blob/e13f335cad1f79a2b52a435b77df35f1787a2c9e/assets/gallery-1496684659-robotic-arm.gif" width="260" />
+  <img src="https://github.com/Ashwin001-fr/Ashwin001-fr/blob/e13f335cad1f79a2b52a435b77df35f1787a2c9e/assets/origin.gif" width="260" />
+  <img src="https://github.com/Ashwin001-fr/Ashwin001-fr/blob/e13f335cad1f79a2b52a435b77df35f1787a2c9e/assets/navigation.gif" width="260" />
 </p>
 
 ---
